@@ -51,7 +51,7 @@ else
     <!-- Tabela z prognozami -->
 }
 
-### Każdy obiekt WeatherForecast zawiera:
+Każdy obiekt WeatherForecast zawiera:
 
 ```private class WeatherForecast
 {
